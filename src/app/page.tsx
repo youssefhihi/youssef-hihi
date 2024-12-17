@@ -10,6 +10,7 @@ const HomeSection6 = dynamic(() => import("@/components/home/Section6"));
 
 const Home = () => {
   return (
+      <>
     <PageBox>
       <HomeSection1 id="hero" />
       <HomeSection2 id="services" />
@@ -18,6 +19,7 @@ const Home = () => {
       <HomeSection5 id="projects" />
       <HomeSection6 id="contact" />
     </PageBox>
+      </>
   );
 };
 
