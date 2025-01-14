@@ -3,6 +3,10 @@ class Strings {
   static telegramLink = "https://telegram.me/youssefhihi";
   static telegramUsername = "youssefhihi";
 
+  static whatsapp = "Whatsapp";
+  static whatsappLink = "https://wa.me/212648233165";
+  static whatsappUsername = "youssefhihi";
+
   static github = "GitHub";
   static githubLink = "https://www.github.com/youssefhihi";
   static githubUsername = "youssefhihi";
@@ -12,8 +16,8 @@ class Strings {
   static linkedInUsername = "youssefhihi";
 
   static twitter = "Twitter";
-  static twitterLink = "https://www.twitter.com/youssefhihi";
-  static twitterUsername = "youssefhihi";
+  static twitterLink = "https://www.twitter.com/youssefhihi18";
+  static twitterUsername = "youssefhihi18";
 
   static email = "Email";
   static primaryEmailLink = "mailto:youssefhihi18@gmail.com";

@@ -1,8 +1,7 @@
 import {
   faGithub,
   faLinkedin,
-  faTelegram,
-  faInstagram,
+  faWhatsapp,
   faXTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
@@ -22,12 +21,7 @@ const socialLinks: ISocialLinkItem[] = [
     icon: faLinkedin,
     text: Strings.linkedInUsername,
   },
-  {
-    name: Strings.telegram,
-    url: Strings.telegramLink,
-    icon: faTelegram,
-    text: Strings.telegramUsername,
-  },
+
   {
     name: Strings.twitter,
     url: Strings.twitterLink,
@@ -39,6 +33,12 @@ const socialLinks: ISocialLinkItem[] = [
     url: Strings.primaryEmailLink,
     icon: faEnvelope,
     text: Strings.primaryEmail,
+  },
+  {
+    name: Strings.whatsapp,
+    url: Strings.whatsappLink,
+    icon: faWhatsapp,
+    text: Strings.whatsappUsername,
   },
   {
     name: Strings.buyMeACoffee,

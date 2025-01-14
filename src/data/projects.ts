@@ -10,7 +10,18 @@ const projects: IProjectItem[] = [
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/Code-Kampfer/easyCar",
     url: "https://code-kampfer.github.io/easyCar",
-    tags: ["Flutter", "HTML", "Css", "Tailwind Css"],
+    tags: ["Javascript", "HTML", "Css", "Tailwind Css"],
+  },
+  {
+    id: "memory-game",
+    title: "Memory Game",
+    description: "A simple memory game built using Angular, TypeScript, and Tailwind CSS. It features a interactive user interface, making it easy for users to play and enjoy the game.",
+    icon: "/skills/angular.svg",
+    repoType: RepoType.Public,
+    projectType: ProjectType.Personal,
+    githubUrl: "https://github.com/youssefhihi/memory-game",
+    url: "https://remember-game-chi.vercel.app/",
+    tags: ["Angular","Tailwind Css"],
   },
   {
     id: "bookify",
@@ -42,6 +53,7 @@ const projects: IProjectItem[] = [
     githubUrl: "https://github.com/youssefhihi/evento",
     tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS", "Event Management", "Full Stack"],
   },
+  
 
 ];
 export default projects;

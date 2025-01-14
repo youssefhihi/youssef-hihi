@@ -18,8 +18,8 @@ const HomeSection6 = ({ id }: { id: string }) => {
       <ConstrainedBox classNames="p-4 py-16">
         <SectionTitle>Get in Touch</SectionTitle>
         <div className='flex flex-col lg:flex-row justify-evenly mt-10 w-full'>
-          <div className='flex flex-col gap-16 w-full lg:w-1/2 items-center justify-center sm:hidden lg:flex'>
-            <p className='text-white font-semibold text-xl mr-10  text-center'>
+          <div className='flex flex-col gap-16 w-full lg:w-1/2 items-center justify-center  lg:flex'>
+            <p className='text-white font-semibold text-xl xl:mr-10 mb-7 xl:mb-0  text-center '>
               I am always excited to connect with new people and explore opportunities for collaboration. Whether you
               have a project idea, need assistance with development, or just want to chat about technology and
               innovations, feel free to reach me. Let's create something amazing together!

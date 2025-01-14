@@ -25,9 +25,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Youssef Hihi",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Youssef Hihi is a talented Full Stack Developer with expertise in front-end and back-end development, passionate about building efficient, scalable, and modern software solutions.",
   robots: {
     index: true,
     follow: true,
@@ -41,41 +41,39 @@ export const metadata: Metadata = {
   },
   icons: [
     {
-      url: "/favicon-16x16.ico",
+      url: "/logo.jpg",
       rel: "icon",
       sizes: "16x16",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-32x32.ico",
+      url: "/logo.jpg",
       rel: "icon",
       sizes: "32x32",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-48x48.ico",
+      url: "/logo.jpg",
       rel: "icon",
       sizes: "48x48",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-64x64.ico",
+      url: "/logo.jpg",
       rel: "icon",
       sizes: "64x64",
       type: "image/x-icon",
     },
   ],
   keywords: [
-    "nikhil rajput",
-    "nikhil",
-    "nixrajput",
-    "nikhil-rajput",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
+    "youssefhihi",
+    "Youssef Hihi",
+    "hihi",
+    "youssef",
+    "youssef-hihi",
     "full stack developer",
-    "indian developer",
-    "nixrajput github",
+    "moroccan developer",
+    "youssefhihi github",
   ],
 };
 

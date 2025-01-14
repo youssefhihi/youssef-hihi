@@ -46,9 +46,10 @@ const services: IServiceItem[] = [
     id: 5,
     title: "DevOps",
     icons: [
-      "/skills/docker.svg",
-      "/skills/kubernetes.svg",
+      "/skills/",
       "/skills/jenkins.svg",
+      "/skills/docker.svg",
+      "/skills/github.svg",
     ],
     shortDescription: "I streamline development and operations processes.",
     description:
@@ -58,6 +59,7 @@ const services: IServiceItem[] = [
     id: 6,
     title: "Database Management",
     icons: [
+      "/skills/",
       "/skills/mysql.svg",
       "/skills/postgresql.svg",
       "/skills/mongodb.svg",
