@@ -220,7 +220,7 @@ export const CardTitle = ({
   return (
       <h3
           className={cn(
-              "text-lg lg:text-xl xl:text-2xl font-semibold text-[var(--primaryColor)] dark:text-[var(--primaryColor)] py-2 tracking-wide",
+              "text-lg text-center lg:text-xl xl:text-2xl font-semibold text-[var(--primaryColor)] dark:text-[var(--primaryColor)] py-2 tracking-wide",
               className
           )}
       >
@@ -239,7 +239,7 @@ export const CardDescription = ({
   return (
       <p
           className={cn(
-              "text-sm/6 lg:text-base/6 font-normal tracking-wide",
+              "text-sm/6 lg:text-base/6 font-normal tracking-wide text-center",
               className
           )}
       >

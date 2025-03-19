@@ -16,8 +16,8 @@ class Strings {
   static linkedInUsername = "youssefhihi";
 
   static twitter = "Twitter";
-  static twitterLink = "https://www.twitter.com/youssefhihi";
-  static twitterUsername = "youssefhihi";
+  static twitterLink = "https://www.twitter.com/youssefhihi18";
+  static twitterUsername = "youssefhihi18";
 
   static email = "Email";
   static primaryEmailLink = "mailto:youssefhihi18@gmail.com";
