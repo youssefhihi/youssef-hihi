@@ -8,8 +8,7 @@ const services: IServiceItem[] = [
       "/skills/react.svg",
       "/skills/typescript.svg",
       "/skills/angular.svg",
-      "/skills/html.svg",
-      "/skills/css.svg",
+      "/skills/nextjs.png",
       "/skills/tailwind.svg"
     ],
     shortDescription: "Building interactive and responsive user interfaces with modern web technologies.",

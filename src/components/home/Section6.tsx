@@ -47,7 +47,7 @@ const HomeSection6 = ({ id }: { id: string }) => {
             I&apos;m{" "}
             <span className="text-[var(--primaryColor)]">available</span> for freelancing,{" "}
             <span className="text-[var(--primaryColor)]">full-time positions (CDI)</span>, or{" "}
-            <span className="text-[var(--primaryColor)]">internships (stage pré-embauche)</span>.
+            <span className="text-[var(--primaryColor)]">part-time position (CDD)</span>.
           </p>
 
         </Column>

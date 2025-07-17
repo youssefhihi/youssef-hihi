@@ -5,12 +5,11 @@ const ResumeButton = () => {
   return (
     <Link
       className="app__outlined_btn min-w-[10rem]"
-      href="/resume/youssefhihi.pdf"
+      href="https://drive.google.com/file/d/1VHBrrNtPLC9oAUZBUYqx0fj51jYreomG/view?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer"
-      download="youssefhihi.pdf"
     >
-      Download Resume
+      Resume
     </Link>
   );
 };

@@ -14,6 +14,21 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/typescript.svg",
       },
+      {
+        title: "JAVA",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/java.svg",
+      },
+      {
+        title: "PHP",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/php.svg",
+      },
+      {
+        title: "Python",
+        level: SkillLevel.Beginner,
+        icon: "/skills/python.svg",
+      },
     ],
   },
   {
@@ -28,6 +43,11 @@ const skills: ISkillListItem[] = [
         title: "Angular",
         level: SkillLevel.Intermediate,
         icon: "/skills/angular.svg",
+      },
+      {
+        title: "Next.js",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/nextjs.png",
       },
       {
         title: "HTML",
@@ -50,11 +70,6 @@ const skills: ISkillListItem[] = [
     title: "Backend Development",
     items: [
       {
-        title: "JAVA",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/java.svg",
-      },
-      {
         title: "Spring Boot",
         level: SkillLevel.Intermediate,
         icon: "/skills/springboot.svg",
@@ -63,11 +78,6 @@ const skills: ISkillListItem[] = [
         title: "J2EE",
         level: SkillLevel.Intermediate,
         icon: "/skills/j2ee.svg",
-      },
-      {
-        title: "PHP",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/php.svg",
       },
       {
         title: "Laravel",
@@ -99,14 +109,13 @@ const skills: ISkillListItem[] = [
     ],
   },
   {
-    title: "DevOps/VCS",
+    title: "DevOps and Version Control",
     items: [
       {
         title: "Docker",
         level: SkillLevel.Beginner,
         icon: "/skills/docker.png",
       },
-    
       {
         title: "Git",
         level: SkillLevel.Intermediate,
@@ -117,6 +126,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/github.svg",
       },
+      {
+        title: "Bitbucket",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/bitbucket.svg",
+      },
     ],
   },
  
@@ -125,7 +139,7 @@ const skills: ISkillListItem[] = [
     items: [
       {
         title: "Problem Solving",
-        level: SkillLevel.Expert,
+        level: SkillLevel.Intermediate,
         icon: "/images/logical-thinking.png",
       },
       {
@@ -135,7 +149,7 @@ const skills: ISkillListItem[] = [
       },
       {
         title: "Analytical Skills",
-        level: SkillLevel.Expert,
+        level: SkillLevel.Intermediate,
         icon: "/images/analytical-skills.png",
       },
     ],
