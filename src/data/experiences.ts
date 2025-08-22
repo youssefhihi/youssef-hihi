@@ -1,11 +1,25 @@
 import { IExperienceItem } from "@/types";
 
 const experiences: IExperienceItem[] = [
+    {
+    designation: "Full stack Java/Angular Developer Full-Time",
+    company: "BI NEWVISION",
+    startDate: "Aug 2025",
+    isCurrentJob: true,
+    location: "Casablanca, Morocco",
+    description: [
+        "Worked on an AI-powered project integrating machine learning models into a Python FastAPI backend with an Angular frontend.",
+        "Designed and implemented REST APIs to serve AI-based features and optimized data processing workflows.",
+        "Explored and integrated AI capabilities to enhance automation and decision-making within the application.",
+        "Contributed to other full-stack projects using Java microservices and Angular, strengthening expertise in scalable architectures."
+         ]
+  },
   {
     designation: "Full stack Java/Angular Developer Intern",
     company: "BI NEWVISION",
     startDate: "Apr 2025",
-    isCurrentJob: true,
+    endDate: "Aug 2025",
+    isCurrentJob: false,
     location: "Casablanca, Morocco",
     description: [
       "Contributed to a Digital Twin project simulating real-world assets in a 3D environment using Angular and Three.js.",
