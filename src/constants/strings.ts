@@ -12,8 +12,8 @@ class Strings {
   static githubUsername = "youssefhihi";
 
   static linkedIn = "LinkedIn";
-  static linkedInLink = "https://www.linkedin.com/in/youssefhihi";
-  static linkedInUsername = "youssefhihi";
+  static linkedInLink = "https://www.linkedin.com/in/youssef-hihi";
+  static linkedInUsername = "youssef-hihi";
 
   static twitter = "Twitter";
   static twitterLink = "https://www.twitter.com/youssefhihi18";
